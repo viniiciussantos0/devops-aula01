@@ -1,0 +1,21 @@
+<button>Cadastrar</button>
+<button>Pesquisar</button>
+<button>Meus pedidos</button>
+<button>Perfil</button>
+<button>Comprar</button>
+
+<body>
+    Perfil
+</body>
+
+<body>
+    Checkout
+</body>
+
+<body>
+    Meus Pedidos
+</body>
+
+<body>
+    Pesquisar pedidos
+</body>

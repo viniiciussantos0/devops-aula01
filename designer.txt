@@ -1,0 +1,10 @@
+Vai precisar de 5 botões.
+
+- O primeiro botão é o de "Cadastro"
+- O segundo botão é o de "Pesquisar"
+- O terceiro botão é o de "Meus Pedidos"
+- O quarto botão vai ser o de "Meu Perfil"
+- O quinto botão é o de "Compra"
+
+Vai ter 4 tipos de tela. A tela do perfil do usuário, a tela de "Meus Pedidos", a tela para "pesquisar o pedido"
+e a tela de "Checkout". 

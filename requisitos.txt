@@ -1,0 +1,4 @@
+Os requisitos do aplicativo de delivery de comidas será necessário que o cliente crie um cadastro, depois do cadastro ira logar no aplicativo e informar o CEP depois do CEP já informado ele ira mostrar as regiões mais proximas e ira direcionar os melhores restaurantes.
+Depois disso o cliente escolhe o produto o frete e preço e informa qual o metódo de pagamento desejado.
+Depois de o cliente ter confirmado o pedido ele será direcionado para  motoboy mais próximo da região que pegara o pedido e entregara para o cliente.
+ 
